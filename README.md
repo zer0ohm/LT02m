@@ -11,6 +11,7 @@
 ## ライセンス (予定)
  - 回路図 : CC-BY-SA 3.0
     - This design, "LT02_forked_c-pro-micro.sch" and "LT02_forked_c-pro-micro_usbsimple.sch", is a derivative of "C-Pro Micro" by zgtk-guri, used under CC-BY-SA 3.0. "LT02_forked_c-pro-micro.sch" and "LT02_forked_c-pro-micro_usbsimple.sch" is licensed under CC-BY-SA 3.0 by zer0ohm.
+    - 詳細は[LICENSE](https://github.com/zer0ohm/LineTrace-LT02/blob/master/LICENCE) を参照してください。
  * その他 : MITライセンス
      - [LICENSE_MIT.md](LICENSE_MIT.md) を参照してください。
     
