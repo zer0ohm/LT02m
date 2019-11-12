@@ -1,5 +1,5 @@
-# LineTrace-LT02
- - This repository publishes the deliverables of the LineTrace “LT02”.
+# LT02m
+ - This repository publishes the deliverables of the “LT02m”.
 
 ## Contents(reserve)
  - Schematic(.sch)
@@ -10,7 +10,7 @@
 
 ## License(reserve)
  - Schematic : CC-BY-SA 3.0
-    - This design, "LT02_forked_c-pro-micro.sch" and "LT02_forked_c-pro-micro_usbsimple.sch", is a derivative of "C-Pro Micro" by zgtk-guri, used under CC-BY-SA 3.0. "LT02_forked_c-pro-micro.sch" and "LT02_forked_c-pro-micro_usbsimple.sch" is licensed under CC-BY-SA 3.0 by zer0ohm.
+    - This design, "LT02m.sch", is a derivative of "C-Pro Micro" by zgtk-guri, used under CC-BY-SA 3.0. "LT02m.sch" is licensed under CC-BY-SA 3.0 by zer0ohm.
  * Other : MIT License
      - see [LICENSE_MIT.md](LICENSE_MIT.md)
      
