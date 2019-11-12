@@ -1,5 +1,5 @@
-# LineTrace-LT02
-このリポジトリは、ライントレース「LT02」の成果物を公開するものです。
+# LT02m
+このリポジトリは、ライントレース「LT02m」の成果物を公開するものです。
 
 ## 内容 (予定・設計中)
  - 回路図(.sch)
@@ -10,7 +10,7 @@
 
 ## ライセンス (予定)
  - 回路図 : CC-BY-SA 3.0
-    - This design, "LT02_forked_c-pro-micro.sch" and "LT02_forked_c-pro-micro_usbsimple.sch", is a derivative of "C-Pro Micro" by zgtk-guri, used under CC-BY-SA 3.0. "LT02_forked_c-pro-micro.sch" and "LT02_forked_c-pro-micro_usbsimple.sch" is licensed under CC-BY-SA 3.0 by zer0ohm.
+    - This design, "LT02m.sch", is a derivative of "C-Pro Micro" by zgtk-guri, used under CC-BY-SA 3.0. "LT02m.sch" is licensed under CC-BY-SA 3.0 by zer0ohm.
     - 詳細は[LICENSE](https://github.com/zer0ohm/LineTrace-LT02/blob/master/LICENCE) を参照してください。
  * その他 : MITライセンス
      - [LICENSE_MIT.md](LICENSE_MIT.md) を参照してください。
